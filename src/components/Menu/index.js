@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../assets/images/logo_cocchiflix.png';
+import Logo from '../../assets/images/logo_cocchiflix_2.png';
 import './Menu.css';
 //import ButtonLink from './components/ButtonLink';
 import Button from '../Button';

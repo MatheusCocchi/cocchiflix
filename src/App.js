@@ -11,9 +11,9 @@ function App() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina dos desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa."}
+        videoTitle={dadosIniciais.categorias[1].videos[0].titulo}
+        url={dadosIniciais.categorias[1].videos[0].url}
+        videoDescription={"Irmãos da Lâmina Manchada | Animação Florescer Espiritual 2020 - League of Legends"}
       />
 
       <Carousel

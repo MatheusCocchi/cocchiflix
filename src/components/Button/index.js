@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+
+//pode se usar o link diretamente no styled component utilizando => styled{Link} *e fazer o import*
+
 const Button = styled.button`
 color: var(--white);
 border: 1px solid var(--white);
